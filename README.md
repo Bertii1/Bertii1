@@ -1,4 +1,3 @@
 - 👋 ciao sono Filippo
 - 🤓 studio ancora all'itis a.volta perugia
 - 😍 mi piacciono l'ingegneria ,l'elettronica e le reti
-- 😃 vorrei imparare a programmare backend e firmware
