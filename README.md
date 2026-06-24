@@ -5,7 +5,7 @@
   <a href="https://bertii1-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.youtube.com/c/filippoberti._dev" target="_blank">
+  <a href="https://www.youtube.com/@BertiFilippo_dev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.leetcode.com/bertii1" target="_blank">
