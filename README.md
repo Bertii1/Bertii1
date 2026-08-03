@@ -58,14 +58,3 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/150930957/Bertii1/Bertii1/recent-activity/PcYqll1iCCcSBlJJUTV4SNK4G2m9vduKWTPyWrBopps/Ol7CND4MwgH3ipJyW05kntOL4857r-u5sc2GDiD60wo_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/150930957/Bertii1/Bertii1/recent-activity/PcYqll1iCCcSBlJJUTV4SNK4G2m9vduKWTPyWrBopps/Ol7CND4MwgH3ipJyW05kntOL4857r-u5sc2GDiD60wo_timeline.svg)](https://github.com/Bertii1/Bertii1/commits)
-[![Issue status graph](https://images.repography.com/150930957/Bertii1/Bertii1/recent-activity/PcYqll1iCCcSBlJJUTV4SNK4G2m9vduKWTPyWrBopps/Ol7CND4MwgH3ipJyW05kntOL4857r-u5sc2GDiD60wo_issues.svg)](https://github.com/Bertii1/Bertii1/issues)
-[![Pull request status graph](https://images.repography.com/150930957/Bertii1/Bertii1/recent-activity/PcYqll1iCCcSBlJJUTV4SNK4G2m9vduKWTPyWrBopps/Ol7CND4MwgH3ipJyW05kntOL4857r-u5sc2GDiD60wo_prs.svg)](https://github.com/Bertii1/Bertii1/pulls)
-[![Trending topics](https://images.repography.com/150930957/Bertii1/Bertii1/recent-activity/PcYqll1iCCcSBlJJUTV4SNK4G2m9vduKWTPyWrBopps/Ol7CND4MwgH3ipJyW05kntOL4857r-u5sc2GDiD60wo_words.svg)](https://github.com/Bertii1/Bertii1/commits)
-[![Top contributors](https://images.repography.com/150930957/Bertii1/Bertii1/recent-activity/PcYqll1iCCcSBlJJUTV4SNK4G2m9vduKWTPyWrBopps/Ol7CND4MwgH3ipJyW05kntOL4857r-u5sc2GDiD60wo_users.svg)](https://github.com/Bertii1/Bertii1/graphs/contributors)
-[![Activity map](https://images.repography.com/150930957/Bertii1/Bertii1/recent-activity/PcYqll1iCCcSBlJJUTV4SNK4G2m9vduKWTPyWrBopps/Ol7CND4MwgH3ipJyW05kntOL4857r-u5sc2GDiD60wo_map.svg)](https://github.com/Bertii1/Bertii1/commits)
-
