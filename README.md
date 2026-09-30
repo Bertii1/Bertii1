@@ -25,7 +25,7 @@
 - 🔭 I'm currently working on [Classeviva-Wrapper-API](https://github.com/Bertii1/Classeviva-Wrapper-API)
 - 🌱 I'm currently learning **Kubernetes and CS50**
 - 🌐 Check out my portfolio at **[bertii1-portfolio.vercel.app](https://bertii1-portfolio.vercel.app/)**
-- 📫 Reach me at **filippoberti104@gmail.com**
+- 📫 Reach me at **filippo@homecinemasolution.it**
 
 ---
 
