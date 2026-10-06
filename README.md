@@ -12,7 +12,7 @@
   <a href="https://www.leetcode.com/bertii1" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:filippoberti104@gmail.com">
+  <a href="mailto:filippo@homecinemasolution.it">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
