@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
-<h3 align="center">A passionate Student from Italy</h3>
+<h3 align="center">Computer & Electronic Engineering student @ UniPG</h3>
+<p align="center">Embedded systems · Web development · Network management · IT management</p>
 
 <p align="center">
   <a href="https://bertii1-portfolio.vercel.app/" target="_blank">
@@ -22,6 +23,15 @@
 
 ---
 
+### 👨‍💻 About me
+
+Engineering student at the University of Perugia, lucky enough to share my passion for technology with my dad. I build things across hardware and software, from real-time embedded devices to web infrastructure and distributed applications.
+
+I'm currently working alongside my dad at our family company, [HomeCinemaSolution](https://homecinemasolution.it), developing [hardware and software products]. I'm interested in software, electronics and AI.
+
+---
+
+- 🎓 Studying **Computer & Electronic Engineering** at the **University of Perugia**
 - 🔭 I'm currently working on [Classeviva-Wrapper-API](https://github.com/Bertii1/Classeviva-Wrapper-API)
 - 🌱 I'm currently learning **Kubernetes and CS50**
 - 🌐 Check out my portfolio at **[bertii1-portfolio.vercel.app](https://bertii1-portfolio.vercel.app/)**
@@ -57,4 +67,3 @@
 </p>
 
 ---
-
